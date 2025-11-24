@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full stack develloper (e420<br>interested in : cyber-security, AI, video-Games
+Full stack develloper (e420)<br>interested in : cyber-security, AI, video-Games
 
 
 ## 🌐 Socials:
