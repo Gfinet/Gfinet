@@ -9,7 +9,7 @@ Full stack develloper (e42)<br>interested in : cyber-security, AI, video-Games
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Javascript](https://img.shields.io/badge/javascript-blue?style=for-the-badge&logoColor=white) 
+![Javascript](https://img.shields.io/badge/javascript-blue?style=for-the-badge&logo=javascript&logoColor=white) 
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Gfinet)
